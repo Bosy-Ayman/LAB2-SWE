@@ -33,4 +33,3 @@ The application will launch, and you can access it in your browser at: `http://1
 
 ### 5. Access the Form
 Once the server is running, go to the home page in your browser. Fill out the form and submit it to see the functionality in action.
-```
